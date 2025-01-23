@@ -8,7 +8,6 @@ JobSearchApp is a React Native application designed to help users search and app
 - Search for jobs by keyword, location, and category
 - View detailed job descriptions
 - Apply for jobs directly through the app
-- Save favorite job listings
 
 ## Installation
 
